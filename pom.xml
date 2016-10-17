@@ -4,7 +4,7 @@
   <groupId>gtl.atp.ap</groupId>
   <artifactId>hotel</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>hotel</name>
   <url>http://maven.apache.org</url>
   <dependencies>
